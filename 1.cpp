@@ -6,4 +6,4 @@ void main()
   int const n=10;
 }
 //میوووووف
-پیریانن
+//pirian
